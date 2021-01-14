@@ -1,25 +1,7 @@
-
-
-<!--
-**erik-nathan/erik-nathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
- # <a href="https://www.linkedin.com/in/giovannamoeller/">Erik Nathan</a>
+ # <a href="beacons.ai/eriknathan_">Erik Nathan</a>
  
 ## About Me
-Tenho 1 anos e sou técnico em Desenvolvimento de Sistemas pela Escola Técninca Estatual Luiz Alves Lacerda, formado em 2019. Atualmente, sou estudante de Ciências da ComputaçÃo na UNIFG - Faculdade dos Guararapes (Recife - PE). 
+Tenho 18 anos e sou técnico em Desenvolvimento de Sistemas pela Escola Técnica Estatual Luiz Alves Lacerda, formado em 2019. Atualmente, sou estudante de Ciências da Computação na UNIFG - Faculdade dos Guararapes (Recife - PE). 
 <br>
 Sigo sempre tentando aprimorar mes conhecimentos na área de Front-end, juntamente com o design.
 
