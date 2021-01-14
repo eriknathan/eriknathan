@@ -16,19 +16,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- # <a href="https://www.linkedin.com/in/giovannamoeller/">Giovanna Moeller</a>
+ # <a href="https://www.linkedin.com/in/giovannamoeller/">Erik Nathan</a>
  
 ## About Me
-Tenho 19 anos e sou técnica em informática pelo Colégio Técnico Industrial 'Prof. Isaac Portal Roldán' - UNESP (Bauru, SP), formada em 2019. Atualmente, sou estudante de Sistemas de Informação na UNESP - Universidade Estadual Paulista (Bauru, SP). 
+Tenho 1 anos e sou técnico em Desenvolvimento de Sistemas pela Escola Técninca Estatual Luiz Alves Lacerda, formado em 2019. Atualmente, sou estudante de Ciências da ComputaçÃo na UNIFG - Faculdade dos Guararapes (Recife - PE). 
 <br>
-Sou uma desenvolvedora web e mobile apaixonada também pelo mundo do design de interfaces.
+Sigo sempre tentando aprimorar mes conhecimentos na área de Front-end, juntamente com o design.
 
 ## Technologies
 - Front - End com HTML, CSS, JS, Bootstrap, ReactJS
-- Back - End com NodeJS, Express, SQL
-- Mobile com React Native
 - Wordpress
 - UI Design utilizando Figma
+- Photshop
 
 **Languages and Tools:**  
 
@@ -42,8 +41,8 @@ Sou uma desenvolvedora web e mobile apaixonada também pelo mundo do design de i
 
 
 ##  Contact Me
-- <a href="https://www.linkedin.com/in/giovannamoeller/">Linkedin</a>
-- <a href="mailto:giovannagmoeller@gmail.com">E-mail</a>
-- <a href="https://instagram.com/gimoeller">Instagram Pessoal</a>
-- <a href="https://www.instagram.com/girl.coding/">Instagram de Criador de Conteúdo</a>
+- <a href="https://www.linkedin.com/in/erik-nathan-827b6b203/">Linkedin</a>
+- <a href="mailto:eriknathan.contato@gmail.com">E-mail</a>
+- <a href="https://instagram.com/eriknathan_">Instagram Pessoal</a>
+- <a href="https://t.me/eriknathan">Telegram</a>
 </div>
