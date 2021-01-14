@@ -1,4 +1,4 @@
- # <a href="beacons.ai/eriknathan_">Erik Nathan</a>
+ # <a href="https://beacons.ai/eriknathan_">Erik Nathan</a>
  
 ## About Me
 Tenho 18 anos e sou técnico em Desenvolvimento de Sistemas pela Escola Técnica Estatual Luiz Alves Lacerda, formado em 2019. Atualmente, sou estudante de Ciências da Computação na UNIFG - Faculdade dos Guararapes (Recife - PE). 
