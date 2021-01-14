@@ -3,7 +3,7 @@
 ## About Me
 Tenho 18 anos e sou técnico em Desenvolvimento de Sistemas pela Escola Técnica Estatual Luiz Alves Lacerda, formado em 2019. Atualmente, sou estudante de Ciências da Computação na UNIFG - Faculdade dos Guararapes (Recife - PE). 
 <br>
-Sigo sempre tentando aprimorar mes conhecimentos na área de Front-end, juntamente com o design.
+Sigo sempre tentando aprimorar meus conhecimentos na área de Front-end, juntamente com o design.
 
 ## Technologies
 - Front - End com HTML, CSS, JS, Bootstrap, ReactJS
