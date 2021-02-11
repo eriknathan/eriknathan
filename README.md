@@ -1,15 +1,16 @@
  # <a href="https://beacons.ai/eriknathan_">Erik Nathan</a>
  
-## About Me
+## Sobre Mim
 Tenho 18 anos e sou técnico em Desenvolvimento de Sistemas pela Escola Técnica Estatual Luiz Alves Lacerda, formado em 2019. Atualmente, sou estudante de Ciências da Computação na UNIFG - Faculdade dos Guararapes (Recife - PE). 
 <br>
 Sigo sempre tentando aprimorar meus conhecimentos na área de Front-end, juntamente com o design.
 
-## Technologies
-- Front - End com HTML, CSS, JS, Bootstrap, ReactJS
+## Habilidades
+- Front end: HTML, CSS, JS, Bootstrap, ReactJS
+- Back-end: Python, Sql
 - Wordpress
 - UI Design utilizando Figma
-- Photshop
+- Design: Photshop avançado, Illustrato Básico
 
 ##  Contact Me
 - <a href="https://www.linkedin.com/in/erik-nathan-827b6b203/">Linkedin</a>
