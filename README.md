@@ -19,4 +19,4 @@ Sigo sempre tentando aprimorar meus conhecimentos na área de Front-end, juntame
 - <a href="https://t.me/eriknathan">Telegram</a>
 </div>
 
-![assinatura-padrao](https://user-images.githubusercontent.com/77215294/104212899-7e4d3400-5414-11eb-86f0-da65f37c1223.png)
+![assinatura-padrao](https://user-images.githubusercontent.com/77215294/107859251-eaa5c380-6e16-11eb-9a55-bb9c918784be.jpg)
