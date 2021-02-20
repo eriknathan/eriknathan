@@ -8,8 +8,8 @@ Sigo sempre tentando aprimorar meus conhecimentos na área de Front-end, juntame
 ## Habilidades
 - Front end: HTML, CSS, JS, Bootstrap, ReactJS
 - Back-end: Python, Sql
-- Wordpress
-- UI Design utilizando Figma
+- Redes de Computadores
+- UI Design
 - Design: Photshop avançado, Illustrato Básico
 
 ##  Contact Me
