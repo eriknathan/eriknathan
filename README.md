@@ -6,7 +6,7 @@ Tenho 18 anos e sou técnico em Desenvolvimento de Sistemas pela Escola Técnica
 Sigo sempre tentando aprimorar meus conhecimentos na área de Front-end, juntamente com o design.
 
 ## Habilidades
-- Front end: HTML, CSS, JS, Bootstrap, ReactJS
+- Front end: HTML, CSS, JS
 - Back-end: Python, Sql
 - Redes de Computadores
 - UI Design
