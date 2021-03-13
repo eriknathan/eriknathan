@@ -10,7 +10,7 @@ Sigo sempre tentando aprimorar meus conhecimentos na área de Front-end, juntame
 - Back-end: Python, Sql
 - Redes de Computadores
 - UI Design
-- Design: Photshop avançado, Illustrato Básico
+- Design: Photshop avançado, Illustrato Básico, Figma
 
 ##  Contact Me
 - <a href="https://www.linkedin.com/in/erik-nathan-827b6b203/">Linkedin</a>
