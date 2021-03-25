@@ -1,5 +1,3 @@
-## <img align="left" src="perfil.png" width="180px"/><a href="https://github.com/erik-nathan"></a>
-
 ## Olá me chamo **Erik Nathan**
 
 Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **desenvolvedor full stack**, sou apaixonado pela tecnologia, adoro programar, aprender novas linguagens e ler no meu tempo livre. 
@@ -33,6 +31,7 @@ Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **desenvolv
 
 ---
 <br>
+<<<<<<< HEAD
 
 **LINGUAGENS EM ESTUDO:**
 
@@ -61,3 +60,4 @@ Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **desenvolv
 
 >[Baseado](https://github.com/Strongreen) 
 >🧡 [Strongreen](https://github.com/Strongreen)
+=======
