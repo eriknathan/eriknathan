@@ -26,7 +26,7 @@ Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **desenvolv
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=erik-nathan&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Amaury Junior GitHub Stats"/>
 </span>
 <span>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-nathan&layout=default&&langs_count=5&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Most Used Languages"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-nathan&layout=default&&langs_count=5&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Most Used Languages"/>
 </span>
 
 ---
