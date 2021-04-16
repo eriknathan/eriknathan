@@ -31,7 +31,6 @@ Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **desenvolv
 
 ---
 <br>
-<<<<<<< HEAD
 
 **LINGUAGENS EM ESTUDO:**
 
@@ -44,7 +43,8 @@ Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **desenvolv
   
 ---
 <br> 
-**PRINCIPAIS REDES SOCIAIS:**
+
+PRINCIPAIS REDES SOCIAIS:
 
 <br>
 
@@ -59,5 +59,4 @@ Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **desenvolv
 <br>
 
 >[Baseado](https://github.com/Strongreen) 
->🧡 [Strongreen](https://github.com/Strongreen)
 =======
