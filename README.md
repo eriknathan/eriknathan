@@ -42,7 +42,6 @@ Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **desenvolv
 
 ---
 <br> 
-
 **PRINCIPAIS REDES SOCIAIS:**
 
 <br>
