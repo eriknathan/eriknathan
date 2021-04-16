@@ -36,12 +36,12 @@ Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **desenvolv
 **LINGUAGENS EM ESTUDO:**
 
   <br>
-  <img align="left" alt="atqjunior-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img aign="left" alt="atqjunior-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="left" alt="atqjunior-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="atqjunior-JAVA" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="left" alt="atqjunior-MYSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-
+  <img aign="left" alt="atqjunior-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" alt="atqjunior-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" alt="atqjunior-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
 ---
 <br> 
 **PRINCIPAIS REDES SOCIAIS:**
