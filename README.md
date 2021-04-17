@@ -13,7 +13,6 @@ Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **desenvolv
 
 * 👾 Meus hobbies são: 
   * Estudar sobre UI Design; 
-  * Jogar bola;
   * Ler livros;
   * Assistir vídeos/séries
 
