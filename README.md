@@ -2,7 +2,7 @@
 
 Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **desenvolvedor full stack**, sou apaixonado pela tecnologia, adoro programar, aprender novas linguagens e ler no meu tempo livre. 
 
-🚀 Também sou designer e faço design gráfico para meu portfólio pessoal..
+🚀 Também trabalho como freelancer na área de Designer Gráfico.
 
 ---
 
