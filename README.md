@@ -12,7 +12,7 @@ Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **desenvolv
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 
 * 👾 Meus hobbies são: 
-  * Estudar sobre UI Design; 
+  * Estudar sobre UI/UX Design; 
   * Ler livros;
   * Assistir vídeos/séries
 
