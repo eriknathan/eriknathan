@@ -8,7 +8,7 @@ Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **desenvolv
 
 **MEUS INTERESSES PESSOAIS:**
 
-- 👩‍💻 Estou estudando front-end com **javascript**, **HTML5** e **CSS3**, e me aventurando um pouco em **Java**;
+- 👩‍💻 Estou estudando as tecnologias de front-end com **javascript**, **HTML5** e **CSS3** e me aventurando um pouco no back com **Java** usando o **Spring boot**!;
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 
 * 👾 Meus hobbies são: 
