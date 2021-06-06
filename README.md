@@ -55,8 +55,6 @@ PRINCIPAIS REDES SOCIAIS:
 ![KOMAREV PROFILE VIEWS](https://komarev.com/ghpvc/?username=erik-nathan&label=PROFILE+VIEWS&)
 
 ---
-
- ![Snake animation](https://github.com/erik-nathan/blob/output/github-contribution-grid-snake.svg)
  
 >[Baseado](https://github.com/Strongreen) 
 =======
