@@ -56,7 +56,7 @@ PRINCIPAIS REDES SOCIAIS:
 
 ---
 
- ![Snake animation](https://github.com/erik-nathan/erik-nathan/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/erik-nathan/blob/output/github-contribution-grid-snake.svg)
  
 >[Baseado](https://github.com/Strongreen) 
 =======
