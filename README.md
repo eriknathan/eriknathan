@@ -31,7 +31,7 @@ Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **Desenvolv
 ---
 <br>
 
-**LINGUAGENS EM ESTUDO:**
+**TECNOLOGIAS / LINGUAGENS EM ESTUDO:**
 
   <br>
   <img align="left" alt="atqjunior-JAVA" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
