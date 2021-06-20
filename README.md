@@ -44,9 +44,8 @@ Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **Desenvolv
  ![MYSQL](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
  ![JAVA](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
  ![SPRINGBOOT](https://img.shields.io/badge/-springboot-333333?style=flat&logo=springboot)
+ ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
  
-  <h3>⚙️ &nbsp;Desing:</h3>
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
  
 ---
 <br> 
