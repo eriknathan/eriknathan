@@ -40,8 +40,9 @@ Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **Desenvolv
  
  <h3>⚙️ &nbsp;Back-end and database:</h3>
  
- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
  ![MYSQL](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
+ ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
+ ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
  ![JAVA](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
  ![SPRINGBOOT](https://img.shields.io/badge/-springboot-333333?style=flat&logo=springboot)
  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
