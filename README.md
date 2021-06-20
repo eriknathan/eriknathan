@@ -1,4 +1,4 @@
-## Olá! Me chamo **Erik Nathan**
+## Hi, I'm Erik, a passionate front-end developer**
 
 Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **Desenvolvedor Full Stack**, sou apaixonado pela tecnologia e design, adoro programar, aprender novas linguagens e ler no meu tempo livre. 
 
