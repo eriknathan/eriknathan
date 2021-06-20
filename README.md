@@ -1,8 +1,8 @@
 ## Olá! Me chamo **Erik Nathan**
 
-Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **Desenvolvedor Full Stack**, sou apaixonado pela tecnologia, adoro programar, aprender novas linguagens e ler no meu tempo livre. 
+Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **Desenvolvedor Full Stack**, sou apaixonado pela tecnologia e design, adoro programar, aprender novas linguagens e ler no meu tempo livre. 
 
-🚀 Também trabalho como freelancer na área de Designer Gráfico.
+🚀 Também trabalho como freelancer na área de Design Gráfico.
 
 ---
 
