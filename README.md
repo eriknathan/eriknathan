@@ -31,15 +31,23 @@ Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **Desenvolv
 ---
 <br>
 
-**TECNOLOGIAS / LINGUAGENS EM ESTUDO:**
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
 
-  <br>
-  <img align="left" alt="atqjunior-JAVA" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="left" alt="atqjunior-MYSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img aign="left" alt="atqjunior-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="left" alt="atqjunior-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" alt="atqjunior-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+ 
+ <h3>⚙️ &nbsp;Back-end and database:</h3>
+ 
+ ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+ ![MYSQL](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
+ ![JAVA](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
+ ![SPRINGBOOT](https://img.shields.io/badge/-springboot-333333?style=flat&logo=springboot)
+ 
+  <h3>⚙️ &nbsp;Desing:</h3>
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+ 
 ---
 <br> 
 
