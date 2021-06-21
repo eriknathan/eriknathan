@@ -29,8 +29,6 @@ Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **Desenvolv
 </span>
 
 ---
-<br>
-
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
