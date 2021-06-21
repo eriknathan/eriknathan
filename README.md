@@ -47,17 +47,15 @@ Atualmente moro em Recife/PE, Brasil. Estou em busca de me tornar um **Desenvolv
  
  
 ---
-<br> 
 
 PRINCIPAIS REDES SOCIAIS:
-
-<br>
+---
 
 <a href="https://www.linkedin.com/in/erik-nathan-827b6b203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/dev_eriknathan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<br>
-
+---
+ 
 ![KOMAREV PROFILE VIEWS](https://komarev.com/ghpvc/?username=erik-nathan&label=PROFILE+VIEWS&)
 
 ---
