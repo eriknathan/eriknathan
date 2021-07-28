@@ -1,6 +1,6 @@
 # Hey 👋
 
-## My name is Erik Nathan 🧑🏽
+##My name is Erik Nathan 🧑🏽
 
 I'm A systems development technician and majoring in computer science. I study programming since 2017💻
 
