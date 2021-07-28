@@ -21,6 +21,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 <span>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erik-nathan&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 </span>
+
 <span>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-nathan&layout=compact&langs_count=7&theme=onedark"/>
 </span>
@@ -32,4 +33,4 @@ Reach me out 👇🏼
   <a href = "mailto:eriknathan.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erik-nathan-827b6b203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/erik-nathan/erik-nathan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/erik-nathan/erik-nathan/blob/output/github-contribution-grid-snake.svg)
