@@ -22,7 +22,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erik-nathan&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Amaury Erik Nathan GitHub Stats"/>
 </span>
 <span>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-nathan&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-nathan&layout=compact&langs_count=7&theme=onedarckpro"/>
 </span>
 
 Reach me out 👇🏼
