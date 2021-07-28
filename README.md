@@ -16,7 +16,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ## 💻  Tech Stack 
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Vue](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma) 
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Vue](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma) ![Mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=Figma) 
 
 <span>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=erik-nathan&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange&icon_color=#268bd2&title_color=#268bd2&custom_title=Amaury Erik Nathan GitHub Stats"/>
