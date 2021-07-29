@@ -11,7 +11,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 ### 🌍 "Quando tudo está errado e confuso, apague tudo e recomece do zero." 🧠
 
 - 📍 From PE living in Recife
-- 💻 Student Computer Science at [UNIFG - Faculdade dos Guarapes](https://unifg.edu.br/)
+- 💻 Student Computer Science
 - 🏆 Sharing a little of my Front-End journey at [erik.coding](https://www.instagram.com/erik.coding/) 
 
 ## 💻  Tech Stack 
