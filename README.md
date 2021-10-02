@@ -4,7 +4,7 @@ My name is Erik Nathan 🧑🏽
 
 I'm A systems development technician and majoring in computer science. I study programming since 2017💻
 
-Always looking to become a Front-End Developer!
+Always looking to become a Web Developer!
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
