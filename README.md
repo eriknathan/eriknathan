@@ -19,11 +19,11 @@ I'm passionate about solving problems and learning. Always open to new challenge
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Vue](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma) ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=Mysql) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker) ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=Jenkins) ![Portainer](https://img.shields.io/badge/-Portainer-333333?style=flat&logo=Portainer)
 
 <span>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erik-nathan&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erik-nathan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </span>
 
 <span>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-nathan&layout=compact&langs_count=7&theme=onedark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-nathan&layout=compact&langs_count=7&theme=dark"/>
 </span>
 
 Reach me out 👇🏼
