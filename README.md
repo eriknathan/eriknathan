@@ -8,7 +8,7 @@ Always looking to become a Web Developer!
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-### 🌍 "Quando tudo está errado e confuso, apague tudo e recomece do zero." 🧠
+### 🌍 "When everything is wrong and confused, erase everything and start from scratch.." 🧠
 
 - 📍 From PE living in Recife
 - 💻 Student Computer Science
