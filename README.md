@@ -2,9 +2,9 @@
 
 My name is Erik Nathan 🧑🏽
 
-I'm A systems development technician and majoring in computer science. I study programming since 2017💻
+I have a degree in Systems Development and I am currently studying Computer Science at UniFg. I've been studying programming since 2017.💻
 
-Always looking to become a Web Developer!
+I am looking to become a full stack!
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
