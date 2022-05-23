@@ -11,8 +11,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 ### 🌍 "When everything is wrong and confused, erase everything and start from scratch.." 🧠
 
 - 📍 From PE living in Recife
-- 💻 Student Computer Science
-- 🏆 Sharing a little of my Front-End journey at [erik.coding](https://www.instagram.com/erik.coding/) 
+- 💻 Student Computer Science 
 
 ## 💻  Tech Stack 
 
