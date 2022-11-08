@@ -4,7 +4,7 @@
 
 <p align="left"> 
   Meu nome é Erik Nathan, tenho 20 anos! Atualmente sou estagiário DevOps.<br>
-  Estagiário DevOps no @ISITICS - Instituito Senai de Inovação! Técnico em Desenvolvimento de Sistemas e faço bacharelado em Ciências da Computação.
+  Estagiário DevOps no @ISITICS - Instituito Senai de Inovação! Técnico em Desenvolvimento de Sistemas e cursando Ciências da Computação.
 </p>
 
 <p align="left">
