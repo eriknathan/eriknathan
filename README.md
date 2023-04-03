@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python, JavaScript, Shell Script, MySQL, Postgres</strong>
+  💻 Linguagens: <strong>Python, JavaScript, Shell Script, MySQL, Postgres</strong>
 </p>
 
 <p align="left">
