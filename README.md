@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Git, Docker, Jenkins, GitHub Actions, Jira, Grafana, InfluxDB, Telegraf, AWS</strong>
+  💼 Ferramentas: <strong>Git, Docker, Kubernetes, Jenkins, GitHub Actions, Jira, Grafana, InfluxDB, Telegraf, AWS, Vagrant, Terraform</strong>
 </p>
 
 <p align="left">
