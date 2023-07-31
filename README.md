@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-nathan/" /></a>
   
   <a href="https://https://eriknathan.hashnode.dev/" alt="Blog">
-  <img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&labelColor=FF0000&logo=blogger&logoColor=white&link=eriknathan.contato@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&labelColor=FF0000&logo=blogger&logoColor=white&link=eriknathan.hashnode.dev" /></a>
 
   <a href="https://www.instagram.com/erik.coding/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/erik.coding/"/></a>
