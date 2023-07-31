@@ -30,8 +30,8 @@
   <a href="https://eriknathan.hashnode.dev/" alt="Blog">
   <img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&labelColor=FF0000&logo=blogger&logoColor=white&link=https://eriknathan.hashnode.dev/" /></a>
 
-  <a href="https://www.instagram.com/erik.coding/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/erik.coding/"/></a>
+  <a href="https://www.instagram.com/erik.devops/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/erik.devops/"/></a>
 </p> 
 
 <span>
