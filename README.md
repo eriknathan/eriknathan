@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  💻 Linguagens: <strong>Python (Django, Flask), JavaScript, Shell Script, MySQL, Postgres</strong>
+  💻 Linguagens: <strong>Python (Django, Flask), JavaScript, Groovy, Shell Script, MySQL, Postgres</strong>
 </p>
 
 <p align="left">
