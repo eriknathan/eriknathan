@@ -3,8 +3,8 @@
 <h1>Hello! World.</h1>
 
 <p align="left"> 
-  Meu nome é Erik Nathan, tenho 23 anos!<br>
-  DevOps no @ISITICS - Instituito Senai de Inovação!
+  Meu nome é Erik Nathan, tenho 24 anos!<br>
+  Sou Engenheiro DevOps
 </p>
 
 <p align="left">
