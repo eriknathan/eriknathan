@@ -1,8 +1,8 @@
+<h1>Hello, World! 👋</h1>
+
 <a href="https://eriknathan.me/">
   <img src="https://eriknathan.me/og-image.jpg" width="420" align="right" alt="Erik Nathan — Arquiteto de Nuvem e DevOps" />
 </a>
-
-<h1>Hello, World! 👋</h1>
 
 Meu nome é **Erik Nathan**, tenho 24 anos e sou **Arquiteto de Nuvem e DevOps**.
 Gosto de automatizar tudo que for repetitivo, construir pipelines confiáveis e manter a infraestrutura como código.
