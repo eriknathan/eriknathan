@@ -19,7 +19,7 @@ Gosto de automatizar tudo que for repetitivo, construir pipelines confiáveis e 
 **Linguagens**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,js,groovy,bash,mysql,postgres&theme=dark" alt="Linguagens" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,js,bash,mysql,postgres&theme=dark" alt="Linguagens" />
 </p>
 
 **DevOps, Cloud e Ferramentas**
