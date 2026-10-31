@@ -1,43 +1,64 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<a href="https://eriknathan.me/">
+  <img src="https://eriknathan.me/og-image.jpg" width="420" align="right" alt="Erik Nathan — Arquiteto de Nuvem e DevOps" />
+</a>
 
-<h1>Hello! World.</h1>
+<h1>Hello, World! 👋</h1>
 
-<p align="left"> 
-  Meu nome é Erik Nathan, tenho 24 anos!<br>
-  Sou Engenheiro DevOps
-</p>
+Meu nome é **Erik Nathan**, tenho 24 anos e sou **Arquiteto de Nuvem e DevOps**.
+Gosto de automatizar tudo que for repetitivo, construir pipelines confiáveis e manter a infraestrutura como código.
+
+- ☁️ Infraestrutura na AWS com IaC, Kubernetes, observabilidade e FinOps
+- 🏅 AWS Certified Solutions Architect – Associate
+- 🌐 Portfólio: [**eriknathan.me**](https://eriknathan.me/)
+- ✍️ Escrevo sobre DevOps no meu [blog](https://eriknathan.hashnode.dev/)
+
+<br clear="right"/>
+
+## 🛠️ Tecnologias
+
+**Linguagens**
 
 <p align="left">
-  💻 Linguagens: <strong>Python (Django, Flask), JavaScript, Groovy, Shell Script, MySQL, Postgres, HCL</strong>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,js,groovy,bash,mysql,postgres&theme=dark" alt="Linguagens" />
 </p>
 
+**DevOps, Cloud e Ferramentas**
+
 <p align="left">
-  💼 Ferramentas: <strong>Git, Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, Jira, Grafana, InfluxDB, Telegraf, AWS, Vagrant</strong>
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,githubactions,terraform,ansible,aws,grafana&theme=dark" alt="Ferramentas" />
 </p>
 
+<sub>Também trabalho com: HCL, Jira, InfluxDB, Telegraf e Vagrant.</sub>
+
+## 🏅 Certificações
+
 <p align="left">
-  Entre em contato por aqui: ⤵️
+  <a href="https://www.credly.com/badges/1b0e75a9-24d4-4e31-bd0a-782372ea8ab5" title="AWS Certified Solutions Architect – Associate">
+    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/linkedin_thumb_image.png" width="110" alt="AWS Certified Solutions Architect – Associate" /></a>
+  <a href="https://www.credly.com/badges/c5b308eb-7907-45fc-a145-eeba9bd273b6" title="AWS Well-Architected Proficient">
+    <img src="https://images.credly.com/images/b870667f-00a3-48d7-b988-9c02b441b883/linkedin_thumb_image.png" width="110" alt="AWS Well-Architected Proficient" /></a>
+  <a href="https://www.credly.com/badges/d0c1bc05-c8e0-48d5-952c-222c12d48c89" title="Cisco Introduction to Cybersecurity">
+    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/linkedin_thumb_I2CS__1_.png" width="110" alt="Cisco Introduction to Cybersecurity" /></a>
 </p>
 
+## 📫 Contato
+
 <p align="left">
+  <a href="https://eriknathan.me/">
+    <img src="https://img.shields.io/badge/Site-eriknathan.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site" /></a>
+  <a href="mailto:eriknathan.contato@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/eriknathan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://eriknathan.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
+  <a href="https://www.instagram.com/erik.devops/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-  <a href="eriknathan.contato@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=eriknathan.contato@gmail.com" /></a>
+## 📊 Estatísticas
 
-  <a href="https://www.linkedin.com/in/eriknathan/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-nathan/" /></a>
-  
-  <a href="https://eriknathan.hashnode.dev/" alt="Blog">
-  <img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&labelColor=FF0000&logo=blogger&logoColor=white&link=https://eriknathan.hashnode.dev/" /></a>
-
-  <a href="https://www.instagram.com/erik.devops/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/erik.devops/"/></a>
-</p> 
-
-<span>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eriknathan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</span>
-
-<span>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriknathan&layout=compact&langs_count=7&theme=dark"/>
-</span>
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eriknathan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriknathan&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Top Linguagens" />
+</p>
